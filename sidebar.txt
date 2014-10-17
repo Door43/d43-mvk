@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvk:home|Door43 (mvk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvk|d43-mvk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvk/archive/master.zip|d43-mvk.zip]]
+
+**Recent Changes**
+{{changes>ns = mvk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvk|Ethnologue data]]
+
